@@ -1,0 +1,8 @@
+@font-face{
+    font-family: jmv;
+    src: url("fontexemplo.otf");
+}
+
+h1{
+    font-family: jmv;
+}
